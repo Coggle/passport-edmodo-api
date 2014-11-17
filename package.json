@@ -20,7 +20,7 @@
   "main": "./lib",
   "dependencies": {
     "passport-strategy": "^1.0.0",
-    "edmodo": "0.0.1"
+    "edmodo": "^1.0.2"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^0.10.0",
